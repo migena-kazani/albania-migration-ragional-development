@@ -1,5 +1,5 @@
 pandas
-numpy
+numpy<2
 scipy
 scikit-learn
 statsmodels
@@ -10,3 +10,5 @@ spreg
 matplotlib
 openpyxl
 xlrd
+pydynpd
+prettytable
