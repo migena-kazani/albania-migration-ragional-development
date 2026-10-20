@@ -1,4 +1,4 @@
-# Internal Migration and Regional Development in Albania (2000–2023)
+# Internal Migration and Regional Development in Albania
 ### Replication Package
 
 This repository contains the data and Python analysis code supporting the paper
