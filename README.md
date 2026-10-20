@@ -3,7 +3,7 @@
 
 This repository contains the data and Python analysis code supporting the paper
 **"Internal Migration and Regional Development in Albania: A Panel Data Analysis of
-Regional Inequalities (2000–2023)"** (IJITIS, Submission ID 610), minor-revision
+Regional Inequalities"** (IJITIS, Submission ID 610), minor-revision
 version.
 
 All 34 scripts are numbered in the order the corresponding tables and figures
